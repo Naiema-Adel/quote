@@ -1,0 +1,20 @@
+h1{
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bold;
+}
+p{
+    font-size: 35px;
+}
+.btn{
+    width: 250px;
+    height: 80px;
+    /* background-color: blue; */
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.btn:hover{
+background-color: rgb(246, 114, 91);
+}
